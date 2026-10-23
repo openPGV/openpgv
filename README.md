@@ -35,9 +35,11 @@ Le code sera publié ici lorsqu’une première version sera prête à être par
 - Pour recevoir les annonces de version via GitHub, choisissez **Watch → Custom → Releases** et activez les notifications correspondantes dans vos paramètres GitHub.
 - L’ouverture du code sera annoncée sur ce dépôt à l’occasion d’une publication **Release**. Une Star seule n’active pas les notifications.
 
-### Licences prévues
+### Licence à déterminer
 
-Le code est destiné à être publié sous **GNU AGPL v3 uniquement** (`AGPL-3.0-only`). Cette présentation et les textes documentaires sont sous [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Les conditions de licence du code et de la documentation sont en cours de définition et seront précisées avant la publication du code. Aucune licence pour une future version n’est annoncée à ce stade.
+
+Le modèle envisagé distingue l’usage interne de la commercialisation auprès de tiers, notamment la revente et la fourniture d’un service hébergé. Son périmètre et ses conditions restent à déterminer et à faire valider juridiquement. Cette présentation ne constitue pas une autorisation d’exploitation du futur code.
 
 ## English
 
@@ -70,6 +72,8 @@ The source code will be published here when an initial version is ready to share
 - To receive release announcements through GitHub, select **Watch → Custom → Releases** and enable the corresponding notifications in your GitHub settings.
 - Source availability will be announced through a **Release** on this repository. Starring alone does not enable notifications.
 
-### Planned licensing
+### License to be determined
 
-The code is intended to be released under **GNU AGPL v3 only** (`AGPL-3.0-only`). This introduction and the project documentation are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Licensing terms for the code and documentation are being defined and will be specified before the source code is published. No license for a future version is being announced at this stage.
+
+The proposed model distinguishes internal use from commercialization for third parties, including resale and hosted services. Its scope and terms remain to be determined and reviewed by legal counsel. This introduction does not grant permission to use the future source code.
